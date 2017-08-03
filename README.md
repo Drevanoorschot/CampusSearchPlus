@@ -1,5 +1,6 @@
 # CampusSearchPlus (Beta)
-CampusSearchPlus is a chrome extension that makes browsing CampusSearch easier
+CampusSearchPlus is a chrome extension that makes browsing CampusSearch easier.
+Requires Java Runtime Environment 7 or later
 
 ## Install instructions (end-user)
 ### Browser installation (part 1)
