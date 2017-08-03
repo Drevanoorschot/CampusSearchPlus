@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "CampusSearch+",
-  "description": "This extension shows a Google Image search result for the current page",
+  "description": "This extension makes browsing CampusSearch easier",
   "version": "1.0",
   "author": "Dré van Oorschot",
   "permissions": [
