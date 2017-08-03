@@ -10,7 +10,7 @@
     "https://ajax.googleapis.com/"
   ],
   "icons": {
-    "16":"icon.png"
+    "16":"icon16.png"
   },
   "content_scripts": [
     {
