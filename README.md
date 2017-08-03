@@ -17,7 +17,7 @@ CampusSearchPlus is a chrome extension that makes browsing CampusSearch easier
 2. Click the button __Load unpacked extension__
 3. Navigate to repository download location, select the entire folder and hit Ok
 4. Run the CampusSearchPlus.jar or
-  1. Build a project around the java src folder in your favorite Java IDE
-  2. Run the Server class
+   1. Build a project around the java src folder in your favorite Java IDE
+   2. Run the Server class
 
 NOTE: the CampusSearchPlus.jar runs on port 8000. If you have other applications running on the same port, I discourage you from installing this extension. Future versions may include a config file to manually configure the port.
